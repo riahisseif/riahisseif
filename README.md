@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/seif-riahi-8171631a1/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif riahi" height="30" width="40" /></a>
-<a href="https://fb.com/seif riahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seif riahi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/seif_eddine_riahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seif riahi" height="30" width="40" /></a>
 <a href="https://www.behance.net/seif eddine riahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="seif eddine riahi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/seif programing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seif programing" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@seifprograming3763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seif programing" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
