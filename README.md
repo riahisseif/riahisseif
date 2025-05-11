@@ -3,8 +3,6 @@
 <img align"right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riahisseif&label=Profile%20views&color=0e75b6&style=flat" alt="riahisseif" /> </p>
 
-- 🔭 I’m currently working on [Algebra Systems](Algebra Systems)
-
 - 🌱 I’m currently preparing for the CKAD (Certified Kubernetes Application Developer) certification.
 
 - 👨‍💻 All of my projects are available at [https://github.com/riahisseif](https://github.com/riahisseif)
