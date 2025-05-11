@@ -7,9 +7,9 @@
 
 - 🌱 I’m currentlay learning **AWS cloud services**
 
-- 👨‍💻 All of my projects are available at [https://riahisseif.github.io/seif.github.io/](https://riahisseif.github.io/seif.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/riahisseif](https://github.com/riahisseif)
 
-- 💬 Ask me about **Android,IOS**
+- 💼 Explore my portfolio: [My Portfolio](https://riahisseif.github.io/seif.github.io/)
 
 - 📫 How to reach me **seifriahi237@gmail.com**
 
