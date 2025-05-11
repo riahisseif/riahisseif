@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Algebra Systems](Algebra Systems)
 
-- 🌱 I’m currentlay learning **AWS cloud services**
+🌱 I’m currently preparing for the CKAD (Certified Kubernetes Application Developer) certification.
 
 - 👨‍💻 All of my projects are available at [https://github.com/riahisseif](https://github.com/riahisseif)
 
