@@ -20,7 +20,8 @@
 <a href="https://www.behance.net/seif eddine riahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="seif eddine riahi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@seifprograming3763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seif programing" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">  🧰Languages and Tools :</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,tailwind,threejs,html,css,js,react,vite,nodejs,express,mongodb,npm,mysql,arduino,symfony,go,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,opencv,git,kubernetes,docker,ansible,prometheus,grafana,terraform,openstack,kafka,azure,aws,gitlab,ps,ai"/><br> </p>
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
   <!-- Cloud & DevOps -->
